@@ -1,0 +1,37 @@
+.Headline{
+  overflow: hidden;
+  background-color: #9e9e9eb5;
+  padding-right: 10px;
+}
+.Headline a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align:center;th:
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.Headline h1{width:200px}
+.menu{float:right;}
+.menu a{padding:10px}
+.Headline a:hover {
+  background-color: white;
+  color:black
+}
+*{padding:0;margin:0}
+body{align-items:center;}
+.container{display:flex}
+.box{display:inline-block;padding:0px 40px}
+.box a{text-decoration:none;display:inline}
+.date{display:inline;margin:0px 6px}
+.text{width:162px;padding:8px;font-weight:bold;font-size:20px}
+marquee{margin:0px 7px}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+.news1,.news2{width:500px;padding-left:17px;padding-bottom:17px;background:#795548a8;margin-bottom:10px}
